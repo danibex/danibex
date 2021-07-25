@@ -1,4 +1,6 @@
-<p align="right"><img width="900" height="100" src="src/assests/to_readme/giphy.gif"></p>
+<div style="display: inline_block"><br>
+<img width="200" src="src/assests/to_readme/giphy.gif"><img width="200" src="src/assests/to_readme/giphy.gif"><img width="200" src="src/assests/to_readme/giphy.gif"><img width="200" src="src/assests/to_readme/giphy.gif">
+</div>
 ### Hi there 👋, I'm Daniel Santana, Jr. Developer.
 
 <div style="display: inline_block"><br>
