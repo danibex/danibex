@@ -2,8 +2,7 @@
 
 <dix>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danibex)](https://github.com/danibex/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danibex&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danibex&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danibex&layout=compact)](https://github.com/danibex/github-readme-stats)
 
 </div>
