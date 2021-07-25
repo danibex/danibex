@@ -13,7 +13,6 @@
    <p align="right"><img width="100" src="src/assests/to_readme/giphy.gif"></p>
 </div>
  
-<p align="right"><img width="100" src="src/assests/to_readme/giphy.gif"></p>
  
 ### Contact me
 
