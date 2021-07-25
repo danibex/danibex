@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-<img width="100" src="src/assests/to_readme/giphy (2).gif"><img width="100" src="src/assests/to_readme/giphy (2).gif"><img width="100" src="src/assests/to_readme/giphy (2).gif"><img width="100" src="src/assests/to_readme/giphy (2).gif">
+<img width="100" src="src/assests/to_readme/giphy (2).gif"><img width="100" src="src/assests/to_readme/giphy (2).gif"><img width="100" src="src/assests/to_readme/giphy (2).gif"><img width="100" src="src/assests/to_readme/giphy (2).gif"><img width="100" src="src/assests/to_readme/giphy (2).gif"><img width="100" src="src/assests/to_readme/giphy (2).gif"><img width="100" src="src/assests/to_readme/giphy (2).gif"><img width="100" src="src/assests/to_readme/giphy (2).gif">
 </div>
 ### Hi there 👋, I'm Daniel Santana, Jr. Developer.
 
