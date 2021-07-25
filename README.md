@@ -1,3 +1,4 @@
+<p align="right"><img width="200" src="src/assests/to_readme/giphy.gif"></p>
 ### Hi there 👋, I'm Daniel Santana, Jr. Developer.
 
 <div style="display: inline_block"><br>
@@ -10,7 +11,6 @@
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <p margin-top="0px" align="right"><img width="200" src="src/assests/to_readme/giphy.gif"></p>
 </div>
  
  
