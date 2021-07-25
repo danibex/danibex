@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Daniel Santana
 
-![Snake animation](https://github.com/danibex/danibex/blob/output/github-contribution-grid-snake.svg)
+<dix>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danibex)](https://github.com/danibex/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danibex&layout=compact)](https://github.com/danibex/github-readme-stats)
 
+</div>
 
 <!--
 **danibex/danibex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
