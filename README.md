@@ -12,9 +12,9 @@
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
  
-
-<p align="right"><img width="300" src="src/assests/to_readme/giphy.gif"></p>
-
+<aside>
+<p align="right"><img width="100" src="src/assests/to_readme/giphy.gif"></p>
+</aside>
  
 ### Contact me
 
