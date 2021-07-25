@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Daniel Santana, Jr. Developer.
 
 <div style="display: inline_block">
-<img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif">
+<img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif">
 </div>
 
 <div style="display: inline_block"><br>
