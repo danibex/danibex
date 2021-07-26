@@ -27,6 +27,6 @@
     <a href = "mailto:danielivam96@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/daniel-santana-ti-frontend/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
- <a href="https://www.linkedin.com/in/daniel-santana-ti-frontend/" target="_blank"><img align="center" height="25" src="https://image.flaticon.com/icons/png/512/124/124034.png" target="_blank"></a>
+ <a href="https://api.whatsapp.com/send?phone=5571986384879&text=Vim%20pelo%20git." target="_blank"><img align="center" height="25" src="https://image.flaticon.com/icons/png/512/124/124034.png" target="_blank"></a>
  
 </div>
