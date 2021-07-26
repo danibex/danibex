@@ -27,6 +27,6 @@
     <a href = "mailto:danielivam96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/daniel-santana-ti-frontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
- <a href="https://www.linkedin.com/in/daniel-santana-ti-frontend/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/124/124034.png" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/daniel-santana-ti-frontend/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/124/124034.png" target="_blank"></a>
  
 </div>
