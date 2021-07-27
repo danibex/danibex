@@ -12,7 +12,7 @@
 # Estou cursando
  
 ### Análise e desenvolvimento de sistemas / Estácio
-<p align="right"><img height="100" width="100" src="https://i.pinimg.com/originals/1a/21/6f/1a216fb0afdce66e7ffd9c9dbfce393b.jpg"></p> 
+<p align="right" margin-top="0"><img height="100" width="100" src="https://i.pinimg.com/originals/1a/21/6f/1a216fb0afdce66e7ffd9c9dbfce393b.jpg"></p> 
  
 # Status profissional
 
