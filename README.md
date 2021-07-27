@@ -13,6 +13,8 @@
  
 ### Análise e desenvolvimento de sistemas / Estácio <img height="100" width="100" src="https://i.pinimg.com/originals/1a/21/6f/1a216fb0afdce66e7ffd9c9dbfce393b.jpg">
 
+<p><img height="100" width="100" src="https://i.pinimg.com/originals/1a/21/6f/1a216fb0afdce66e7ffd9c9dbfce393b.jpg"></p> 
+ 
 # Status profissional
 
 ### Procurando uma empresa para aplicar meus conhecimentos e agregar valores éticos e econômicos.
