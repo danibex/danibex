@@ -38,4 +38,4 @@
 </p>
  
 <p align="center">Número de visitas no perfil: </p> 
-<p align="center">img alingn="center" src="https://profile-counter.glitch.me/danibex/count.svg" /></p>
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/danibex/count.svg" /></p>
