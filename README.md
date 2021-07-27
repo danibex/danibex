@@ -16,7 +16,7 @@
  
 # Status profissional
 
-### Procurando uma empresa para aplicar meus conhecimentos e agregar valores éticos e econômicos.
+<p align="center">Procurando uma empresa para aplicar meus conhecimentos e agregar valores éticos e econômicos.</p>
 
 # Minhas habilidades
 
@@ -24,7 +24,7 @@
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-       <img align="center" height="50" width="40" src="src/assests/to_readme/iconephp.svg">
+   <img align="right" height="50" width="40" src="src/assests/to_readme/iconephp.svg">
 </p>
  
  
