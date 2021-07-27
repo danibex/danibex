@@ -11,7 +11,7 @@
  
 # Estou cursando
  
-### Análise e desenvolvimento de sistemas / Estácio <img height="60" margin-top="20px" src="https://i.pinimg.com/originals/1a/21/6f/1a216fb0afdce66e7ffd9c9dbfce393b.jpg">
+### Análise e desenvolvimento de sistemas / Estácio <img height="50" width="40" src="https://i.pinimg.com/originals/1a/21/6f/1a216fb0afdce66e7ffd9c9dbfce393b.jpg">
 
 # Status profissional
 
@@ -35,5 +35,7 @@
    <a href="https://www.linkedin.com/in/daniel-santana-ti-frontend/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  <a href="https://api.whatsapp.com/send?phone=5571986384879&text=Vim%20pelo%20git." target="_blank"><img align="center" height="25" src="https://image.flaticon.com/icons/png/512/124/124034.png" target="_blank"></a>
- 
 </span>
+ 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/danibex/count.svg" /></p>
