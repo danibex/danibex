@@ -37,5 +37,6 @@
  <a href="https://api.whatsapp.com/send?phone=5571986384879&text=Vim%20pelo%20git." target="_blank"><img align="center" height="25" src="https://image.flaticon.com/icons/png/512/124/124034.png" target="_blank"></a>
 </p>
  
+<p align="center">### Número de visitas no perfil: </p> 
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/danibex/count.svg" /></p>
