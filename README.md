@@ -15,7 +15,7 @@
 
 # Status profissional
 
-### Procurando empresa para aplicar meus conhecimentos e agregar valores éticos e econômicos.
+### Procurando uma empresa para aplicar meus conhecimentos e agregar valores éticos e econômicos.
 
 # Minhas habilidades
 
