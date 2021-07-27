@@ -12,7 +12,11 @@
 # Estou cursando
  
 ### Análise e desenvolvimento de sistemas / Estácio 
- 
+
+# Status profissional
+
+### Procurando empresa para aplicar meus conhecimentos e agregar valores éticos e econômicos.
+
 # Minhas habilidades
 
 <span><br>
