@@ -12,21 +12,21 @@
    
 ### Minhas habilidades
 
-<div style="display: inline_block"><br>
+<span><br>
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
        <img align="center" height="50" width="40" src="src/assests/to_readme/iconephp.svg">
-</div>
+</span>
  
  
 ### Contact me
 
-<div>
+<span>
    <a href="https://www.instagram.com/daniel.medeiros21/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:danielivam96@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/daniel-santana-ti-frontend/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  <a href="https://api.whatsapp.com/send?phone=5571986384879&text=Vim%20pelo%20git." target="_blank"><img align="center" height="25" src="https://image.flaticon.com/icons/png/512/124/124034.png" target="_blank"></a>
  
-</div>
+</span>
