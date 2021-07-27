@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Daniel Santana, Jr. Developer.
 
-<span>     /* <div style="display: inline_block">  */
+<span>
 <a href="https://github.com/danibex">
 <img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif">
 </span>
 
-<div style="display: inline_block">
+<span>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danibex&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibex&layout=compact&langs_count=7&theme=merko"/>
-</div>
+</span>
  
    
 ### Minhas habilidades
