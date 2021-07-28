@@ -20,7 +20,7 @@
    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img height="50" width="40" margin-up="100px" src="src/assests/to_readme/iconephp.svg">
+   <img height="50" align="center" width="40" src="src/assests/to_readme/iconephp.svg">
 </p>
  
  
