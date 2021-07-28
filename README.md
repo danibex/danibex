@@ -20,7 +20,6 @@
    <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
    <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
    <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-   <img height="50" align="center" width="40" src="src/assests/to_readme/iconephp.svg">
 </p>
  
  
