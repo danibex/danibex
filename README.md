@@ -17,7 +17,7 @@
 # Minhas habilidades
 <p align="center">Observação: ao clicar nas habilidades você será redirecionado para um projeto feito utilizando ela.</p>
 <p align="center"><br>
-   <img href="https://danibex.github.io/GoogleGlasssWebSite/" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <p href="href="https://danibex.github.io/GoogleGlasssWebSite/""><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></p>
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" height="50" width="40" src="src/assests/to_readme/iconephp.svg">
