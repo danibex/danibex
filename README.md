@@ -15,9 +15,9 @@
 <p align="center" margin-top="0"><img height="100" width="100" src="https://i.pinimg.com/originals/1a/21/6f/1a216fb0afdce66e7ffd9c9dbfce393b.jpg"></p> 
 
 # Minhas habilidades
-
+<p align="center">Observação: ao clicar nas habilidades você será redirecionado para um projeto feito utilizando ela.</p>
 <p align="center"><br>
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img href="https://danibex.github.io/GoogleGlasssWebSite/" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" height="50" width="40" src="src/assests/to_readme/iconephp.svg">
