@@ -14,7 +14,7 @@
 # Estou cursando
  
 <p align="center">Análise e desenvolvimento de sistemas / Estácio</p>
-<p align="center" margin-top="0"><img height="100" width="100" src="https://i.pinimg.com/originals/1a/21/6f/1a216fb0afdce66e7ffd9c9dbfce393b.jpg"></p> 
+<a href="https://drive.google.com/file/d/1JGVrCZJWmV7pV2_AWMl4iXBqhf-2ObVO/view?usp=sharing"><p align="center" margin-top="0"><img height="100" width="100" src="https://i.pinimg.com/originals/1a/21/6f/1a216fb0afdce66e7ffd9c9dbfce393b.jpg"></a></p> 
 
 # Minhas habilidades
 <p align="center">Observação: ao clicar nas habilidades você será redirecionado para um projeto feito utilizando ela.</p>
