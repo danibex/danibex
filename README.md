@@ -9,7 +9,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danibex&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibex&layout=compact&langs_count=7&theme=merko"/>
 </p>
 
-<p align="center">  ![Snake animation](https://github.com/danibex/danibex/blob/output/github-contribution-grid-snake.svg)</p>
+![Snake animation](https://github.com/danibex/danibex/blob/output/github-contribution-grid-snake.svg)
 
 # Estou cursando
  
