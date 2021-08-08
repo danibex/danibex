@@ -32,7 +32,7 @@
 
 ## Certificados
 
-<a href="https://drive.google.com/file/d/1pWXh8vY1BrYruU7V07uo8eh4WMk890Jv/view?usp=sharing"><img height="30" align="center" width="40" src="https://image.flaticon.com/icons/png/512/1830/1830518.png"></a>
+<p>HTML, CSS e Javascript: <a href="https://drive.google.com/file/d/1pWXh8vY1BrYruU7V07uo8eh4WMk890Jv/view?usp=sharing"><img height="30" align="center" width="40" src="https://image.flaticon.com/icons/png/512/1830/1830518.png"></a></p>
 
 # Contact me
 
