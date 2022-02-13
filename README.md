@@ -28,7 +28,8 @@
 ## Aprendendo e aperfeicoando
 
 <p align="center">
-
+      <a><img height="40" align="center" width="60" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+"></a> 
 </p> 
 
 ## Certificados
