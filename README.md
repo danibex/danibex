@@ -17,11 +17,11 @@
 <a href="https://drive.google.com/file/d/1JGVrCZJWmV7pV2_AWMl4iXBqhf-2ObVO/view?usp=sharing"><p align="center" margin-top="0"><img height="100" width="100" src="https://i.pinimg.com/originals/1a/21/6f/1a216fb0afdce66e7ffd9c9dbfce393b.jpg"></a></p> 
 
 # Minhas habilidades
-<p align="center">Observação: ao clicar nas habilidades você será redirecionado para um projeto feito utilizando ela.</p>
 <p align="center"><br>
    <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
    <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
    <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+   <a><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/danibex/danibex/main/img/imagem-site-tecnologias-300x257.png"></a
 </p>
 
 ## Aprendendo e aperfeicoando
