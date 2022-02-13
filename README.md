@@ -21,13 +21,14 @@
    <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
    <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
    <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-   <a><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/danibex/danibex/main/img/imagem-site-tecnologias-300x257.png"></a
+   <a><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/danibex/danibex/main/img/imagem-site-tecnologias-300x257.png"></a>
+   <a><img height="40" align="center" width="60" src="https://github.com/danibex/danibex/blob/main/src/assests/to_readme/iconephp.svg"></a>
 </p>
 
 ## Aprendendo e aperfeicoando
 
 <p align="center">
-<a><img height="40" align="center" width="60" src="https://github.com/danibex/danibex/blob/main/src/assests/to_readme/iconephp.svg"></a>
+
 </p> 
 
 ## Certificados
