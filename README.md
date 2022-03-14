@@ -24,9 +24,6 @@
    <a><img height="40" align="center" width="60" src="https://github.com/danibex/danibex/blob/main/src/assests/to_readme/iconephp.svg"></a>
 </p>
 
-## Certificados
-
-<p>HTML, CSS e Javascript: <a href="https://drive.google.com/file/d/1pWXh8vY1BrYruU7V07uo8eh4WMk890Jv/view?usp=sharing"><img height="30" align="center" width="40" src="https://image.flaticon.com/icons/png/512/1830/1830518.png"></a></p>
 
 # Contact me
 
@@ -37,5 +34,3 @@
  <a href="https://api.whatsapp.com/send?phone=5571986384879&text=Vim%20pelo%20git." target="_blank"><img align="center" height="28" src="https://image.flaticon.com/icons/png/512/124/124034.png" target="_blank"></a>
 </p>
  
-<p align="center">Número de visitas no perfil: </p> 
-<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/danibex/count.svg" /></p>
