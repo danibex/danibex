@@ -28,8 +28,8 @@
 # Contact me
 
 <p align="center">
-    <a href = "mailto:danielivam96@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/daniel-santana-ti-frontend/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:danielivam96@gmail.com"><img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-7.png"/></a>
+   <a href="https://www.linkedin.com/in/daniel-santana-ti-frontend/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png"/></a>
  <a href="https://api.whatsapp.com/send?phone=5571986384879&text=Vim%20pelo%20git." target="_blank"><img src="https://img.icons8.com/color/144/000000/whatsapp--v4.png"/></a>
 </p>
  
