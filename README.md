@@ -17,13 +17,13 @@
 
 # Minhas habilidades
 <p align="center"><br>
-   <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-   <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-   <a href="https://danibex.github.io/GoogleGlasssWebSite/"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-   <a><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/danibex/danibex/main/img/imagem-site-tecnologias-300x257.png"></a>
-   <a><img height="50" align="center" width="60" src="https://img.icons8.com/officel/344/php-logo.png"></a>
-   <a><img height="40" align="center" width="60" src="https://img.icons8.com/color/344/git.png"></a>
-   <a><img height="40" align="center" width="60" src="https://img.icons8.com/ios-filled/344/github.png"></a>
+   <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/danibex/danibex/main/img/imagem-site-tecnologias-300x257.png">
+   <img height="30" align="center" width="60" src="https://img.icons8.com/officel/344/php-logo.png">
+   <img height="30" align="center" width="60" src="https://img.icons8.com/color/344/git.png">
+   <img height="30" align="center" width="60" src="https://img.icons8.com/ios-filled/344/github.png">
 </p>
 
 
