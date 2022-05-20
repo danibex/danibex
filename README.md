@@ -20,7 +20,7 @@
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+   <img height="30" align="center" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
    <a><img height="50" align="center" width="60" src="https://img.icons8.com/officel/344/php-logo.png"></a>
    <a><img height="40" align="center" width="60" src="https://img.icons8.com/color/344/git.png"></a>
    <a><img height="40" align="center" width="60" src="https://img.icons8.com/ios-filled/344/github.png"></a>
