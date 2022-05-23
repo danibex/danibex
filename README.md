@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Daniel Santana, Developer .
+# Hi there 👋, I'm Daniel Santana, Web Developer .
 
 <p align="center">
 <a href="https://github.com/danibex">
