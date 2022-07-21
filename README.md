@@ -23,7 +23,7 @@
    <a><img height="40" align="center" width="60" src="https://img.icons8.com/color/344/git.png"></a>
    <a><img height="40" align="center" width="60" src="https://img.icons8.com/ios-filled/344/github.png"></a>
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/danibex/danibex/main/img/imagem-site-tecnologias-300x257.png">
-   <img height="30" align="center" width="60" src="img/logo.svg">
+   <img height="40" align="center" width="60" src="img/logo.svg">
 </p>
 
 
