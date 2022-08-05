@@ -20,11 +20,12 @@
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <a><img height="40" align="center" width="60" src="https://img.icons8.com/color/344/git.png"></a>
-   <a><img height="40" align="center" width="60" src="https://img.icons8.com/ios-filled/344/github.png"></a>
+   <img height="40" align="center" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8I7_P5EqjjIv0QJPmYMhOyT9cRneog_q9Apw7wUDj&s">
+   <img height="40" align="center" width="60" src="https://img.icons8.com/color/344/git.png">
+   <img height="40" align="center" width="60" src="https://img.icons8.com/ios-filled/344/github.png">
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/danibex/danibex/main/img/imagem-site-tecnologias-300x257.png">
    <img height="40" align="center" width="60" src="img/logo.svg">
-   <img height="40" align="center" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8I7_P5EqjjIv0QJPmYMhOyT9cRneog_q9Apw7wUDj&s">
+   
 </p>
 
 
