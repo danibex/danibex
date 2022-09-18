@@ -18,8 +18,8 @@
 # Minhas habilidades
 <div align="center" display><br>
    <a href="https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf" target="_blank"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-   <a href="https://www.w3c.br/pub/Cursos/CursoCSS3/css-web.pdf" target="_blank"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+   <a href="https://www.w3c.br/pub/Cursos/CursoCSS3/css-web.pdf" target="_blank"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="30" align="center" width="40"></a>
    <a href="https://nodejs.org/pt-br/docs/" target="_blank"><img height="40" align="center" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8I7_P5EqjjIv0QJPmYMhOyT9cRneog_q9Apw7wUDj&s"></a>
    <a href="https://dev.mysql.com/doc/" target="_blank"><img height="50" align="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
    <a href="https://git-scm.com/docs/git/pt_BR" target="_blank"><img height="40" align="center" width="60" src="https://img.icons8.com/color/344/git.png"></a>
