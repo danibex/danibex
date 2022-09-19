@@ -17,6 +17,7 @@
 
 # Minhas habilidades
 <div align="center"><br>
+   <a href="https://docs.kernel.org/" target="_blank"><img height="30" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
    <a href="https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf" target="_blank"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
    <a href="https://www.w3c.br/pub/Cursos/CursoCSS3/css-web.pdf" target="_blank"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
