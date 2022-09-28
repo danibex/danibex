@@ -10,10 +10,9 @@
 </p>
 
  
-# Estou cursando
+# Formação
  
-<p align="center"><b>Análise e desenvolvimento de sistemas / Estácio</b></p>
-<a href="https://drive.google.com/file/d/1JGVrCZJWmV7pV2_AWMl4iXBqhf-2ObVO/view?usp=sharing"><p align="center" margin-top="0"><img height="100" width="100" src="https://i.pinimg.com/originals/1a/21/6f/1a216fb0afdce66e7ffd9c9dbfce393b.jpg"></a></p> 
+<p align="center"><b>Análise e desenvolvimento de sistemas / Estácio</b></p> 
 
 # Minhas habilidades
 <div align="center"><br>
