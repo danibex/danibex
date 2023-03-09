@@ -4,11 +4,6 @@
 <a href="https://github.com/danibex">
 <img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif"><img width="200" src="src/assests/to_readme/giphy (2).gif">
 </p>
-
-<p align="center">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danibex&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
  
 # Formação
  
