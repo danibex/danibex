@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibex&layout=compact&langs_count=7&theme=merko"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danibex&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
  
