@@ -10,7 +10,7 @@
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img height="40" align="center" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8I7_P5EqjjIv0QJPmYMhOyT9cRneog_q9Apw7wUDj&s">
+   <img height="40" align="center" width="60" src="https://danibex.github.io/portifolio/img/stacks/nodejs.png">
   <img height="50" align="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img height="40" align="center" width="60" src="https://img.icons8.com/color/344/git.png">
    <img height="40" align="center" width="60" src="https://img.icons8.com/ios-filled/344/github.png">
