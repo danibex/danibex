@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Daniel Santana, Web Developer .
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danibex&layout=compact)](https://github.com/danibex/github-readme-stats)
+<div width="100%">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danibex&layout=compact)](https://github.com/danibex/github-readme-stats)</div>
 
 # Formação
  
