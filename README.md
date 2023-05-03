@@ -23,8 +23,8 @@
  <img max-height="auto" align="center" width="40" src="https://danibex.github.io/portifolio/img/stacks/jquery.png">
  <img max-height="auto" align="center" width="40" src="https://danibex.github.io/portifolio/img/stacks/react.png">
  <img max-height="auto" align="center" width="40" src="https://danibex.github.io/portifolio/img/stacks/bootstrap.png">
- <img max-height="auto" align="center" width="40" src="https://danibex.github.io/portifolio/img/stacks/Tailwind.png">
- <img max-height="auto" align="center" width="40" src="https://danibex.github.io/portifolio/img/stacks/Typescript.png">
+ <img max-height="auto" align="center" width="80" src="https://danibex.github.io/portifolio/img/stacks/Tailwind.png">
+ <img max-height="auto" align="center" width="80" src="https://danibex.github.io/portifolio/img/stacks/Typescript.png">
 </div>
 
 
