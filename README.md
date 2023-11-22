@@ -5,7 +5,7 @@
 
 # Formação
  
-<p align="center"><b>Análise e desenvolvimento de sistemas / Estácio</b></p> 
+<p align="center"><b>Análise e desenvolvimento de sistemas</b></p> 
 
 # Minhas habilidades
 <div align="center"><br>
