@@ -9,22 +9,24 @@
 
 # Minhas habilidades
 <div align="center"><br>
+
    <img height="30" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img height="40" align="center" width="60" src="https://danibex.github.io/portifolio/img/stacks/nodejs.png">
-  <img height="50" align="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img height="40" align="center" width="60" src="https://img.icons8.com/color/344/git.png">
-   <img height="40" align="center" width="60" src="https://img.icons8.com/ios-filled/344/github.png">
-  <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/danibex/danibex/main/img/imagem-site-tecnologias-300x257.png">
- <img max-height="auto" align="center" width="40" src="https://danibex.github.io/portifolio/img/stacks/gulp.png">
- <img max-height="auto" align="center" width="40" src="https://danibex.github.io/portifolio/img/stacks/webpack.png">
- <img max-height="auto" align="center" width="40" src="https://danibex.github.io/portifolio/img/stacks/jquery.png">
- <img max-height="auto" align="center" width="40" src="https://danibex.github.io/portifolio/img/stacks/react.png">
- <img max-height="auto" align="center" width="40" src="https://danibex.github.io/portifolio/img/stacks/bootstrap.png">
- <img max-height="auto" align="center" width="80" src="https://danibex.github.io/portifolio/img/stacks/Tailwind.png">
- <img max-height="auto" align="center" width="80" src="https://danibex.github.io/portifolio/img/stacks/Typescript.png">
+  <img height="30" align="center" width="40" src="./img/jquery.png">
+   <img height="40" align="center" width="60" src="./img//bootstrap.png">
+ <img max-height="auto" align="center" width="40" src="./img/tailwind.png">
+   <img height="40" align="center" width="60" src="./img/gulp.png">
+   <img height="40" align="center" width="60" src="./img/webpack.png">
+  <img height="50" align="center" width="60" src="./img/react.png" />
+ <img max-height="auto" align="center" width="40" src="./img/typescript.png">
+ <img max-height="auto" align="center" width="40" src="./img/node.png">
+ <img max-height="auto" align="center" width="40" src="./img/postgres.png">
+ <img max-height="auto" align="center" width="40" src="./img/sqlite.png">
+ <img max-height="auto" align="center" width="70" src="./img/mysql.svg">
+ <img max-height="auto" align="center" width="40" src="./img/docker.png">
+ <img max-height="auto" align="center" width="40" src="./img/compose.png">
 </div>
 
 
